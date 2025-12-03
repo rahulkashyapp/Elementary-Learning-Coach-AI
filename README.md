@@ -129,7 +129,7 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Type Safety**: End-to-end TypeScript with Zod validation
 - **Essential Hooks**: 100+ useful React hooks with ReactUse for common patterns
 
-## 🤝 Get Started with Z.ai
+## 🤝 Get Started  
 
 1. **Clone this scaffold** to jumpstart your project
 2. **Visit  ** to access your AI coding assistant
